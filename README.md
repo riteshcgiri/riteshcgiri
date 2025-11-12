@@ -41,12 +41,7 @@ I'm currently learning React, MongoDB, Express and much more.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riteshcgiri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=riteshcgiri&theme=blue_navy&hide_border=true) <br>
-<div style="display:flex; ">
-  <p style="flex:  1 1 0%;">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshcgiri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  </p>
-</div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshcgiri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riteshcgiri&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
 
