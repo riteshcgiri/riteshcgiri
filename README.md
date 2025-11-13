@@ -1,11 +1,11 @@
 # 💫 About Me
-Hii user,<br>
-I'm a Frontend Dev - Trying to learn new thing on my own.<br>
-I'm currently working on RENTRO Web App<br>
-I'm looking to collaborate with every project you and i have in mind<br>
-I'm looking for help with React Js, Redux and many more things.<br>
+Hii there 👋🏻, Ritesh here,<br>
+I'm a Frontend Dev 💻 - Trying to learn new thing on my own.<br>
+I'm currently working on RENTRO Web App 🚗<br>
+I'm looking to collaborate with every project you and i have in mind 👥<br>
+I'm looking for help with React Js, Redux and many more things. 🤯<br>
 
-Ask me any questions, feel free to reach out.<br>
+Ask me any questions, feel free to reach out. 🤔💭<br>
 I'm currently learning React, MongoDB, Express and much more.
 
 
