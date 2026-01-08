@@ -1,5 +1,5 @@
 # 💫 About Me
-Hii there 👋🏻, Ritesh here,<br>
+Hii there 👋🏻, <h1>Ritesh Giri</h1>,<br>
 I'm a Frontend Dev 💻 - Trying to learn new thing on my own.<br>
 I'm currently working on RENTRO Web App 🚗<br>
 I'm looking to collaborate with every project you and i have in mind 👥<br>
